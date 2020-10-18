@@ -1,7 +1,7 @@
 # life_calc
 
-A new Flutter application.
-
+It's a group of tool in one application.
+You can try it on Google Play Store: https://play.google.com/store/apps/details?id=com.devali.lifecalculator
 ## Getting Started
 
 This project is a starting point for a Flutter application.
