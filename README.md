@@ -1,6 +1,6 @@
 # life_calc
 
-It's a group of tools in one application.
+It's a group of tools for daily use in one application.
 
 ![Screenshot_20250425_145449](https://github.com/user-attachments/assets/54743d84-175b-4c97-b2ec-78a9f75ca295)
 ![Screenshot_20250425_145506](https://github.com/user-attachments/assets/fd143af2-90b6-484d-b1da-e80431beeee4)
