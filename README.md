@@ -1,7 +1,12 @@
 # life_calc
 
-It's a group of tool in one application.
-You can try it on Google Play Store: https://play.google.com/store/apps/details?id=com.devali.lifecalculator
+It's a group of tools in one application.
+
+![Screenshot_20250425_145449](https://github.com/user-attachments/assets/54743d84-175b-4c97-b2ec-78a9f75ca295)
+![Screenshot_20250425_145506](https://github.com/user-attachments/assets/fd143af2-90b6-484d-b1da-e80431beeee4)
+![Screenshot_20250425_145534](https://github.com/user-attachments/assets/b29ebcae-171f-4b76-863d-54b0fe372083)
+![Screenshot_20250425_145545](https://github.com/user-attachments/assets/769ac164-a297-4e8e-a92b-15106576f740)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
